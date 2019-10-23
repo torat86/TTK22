@@ -1,0 +1,4 @@
+/home/tor/eclipse-workspace/test/build/CMakeFiles/edit_cache.dir
+/home/tor/eclipse-workspace/test/build/CMakeFiles/rebuild_cache.dir
+/home/tor/eclipse-workspace/test/build/CMakeFiles/imc.dir
+/home/tor/eclipse-workspace/test/build/CMakeFiles/planspec.dir

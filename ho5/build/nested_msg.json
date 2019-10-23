@@ -1,0 +1,48 @@
+{
+  "abbrev": "PlanSpecification",
+  "timestamp": "1562830429.47",
+  "src": "16652",
+  "src_ent": "44",
+  "dst": "30",
+  "dst_ent": "255",
+  "plan_id": "cmd-lauv-xplore-1",
+  "description": "",
+  "vnamespace": "",
+  "variables": [],
+  "start_man_id": "1",
+  "maneuvers": [{
+    "abbrev": "PlanManeuver",
+    "maneuver_id": "1",
+    "data": {
+      "abbrev": "Loiter",
+      "timeout": "10000",
+      "lat": "0.718891646934",
+      "lon": "-0.151942502543",
+      "z": "3",
+      "z_units": "1",
+      "duration": "3000",
+      "speed": "1000",
+      "speed_units": "1",
+      "type": "1",
+      "radius": "20",
+      "length": "1",
+      "bearing": "0",
+      "direction": "1",
+      "custom": ""
+    },
+    "start_actions": [{
+      "abbrev": "SetEntityParameters",
+      "name": "LBL",
+      "params": [{
+        "abbrev": "EntityParameter",
+        "name": "Active",
+        "value": "false"
+      }]
+    }],
+    "end_actions": []
+  }],
+  "transitions": [],
+  "start_actions": [],
+  "end_actions": []
+}
+
